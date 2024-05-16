@@ -44,3 +44,9 @@
 
 # ImGui .ini
 *imgui.ini
+
+# scripts
+/scripts/
+
+# .md
+*.md
